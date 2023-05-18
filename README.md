@@ -1,0 +1,2 @@
+# Shocuss
+Profanity detection
